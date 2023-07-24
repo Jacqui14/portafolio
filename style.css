@@ -1,0 +1,117 @@
+#img-perfil{
+    float:left;
+    flex-direction:column-reverse;
+    margin-right: 150px;
+    
+}
+#encabezado{
+    font-size: 40px;
+}
+.comienzo{
+    background-color: #F2A30F;
+    text-emphasis-color:beige;
+}
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #fd9843!important;
+}
+
+.nav-link{
+    color: #653208!important;
+}
+
+.text-bg-primary {
+    background-color: #fd9843!important;
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+
+#proyecto-1{
+    background-image: url('imagenes/proyecto-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-3{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-4{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-5{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-6{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #fd9843;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:black;
+}
+
+.icono{
+    width: 50px;
+}
+/* Color Theme Swatches in Hex */
+.curriculum-vitae-concept--drawn-on-blackboard-1-hex { color: #F2B90C; }
+.curriculum-vitae-concept--drawn-on-blackboard-2-hex { color: #F2A30F; }
+.curriculum-vitae-concept--drawn-on-blackboard-3-hex { color: #BF8211; }
+.curriculum-vitae-concept--drawn-on-blackboard-4-hex { color: #F2F2F2; }
+.curriculum-vitae-concept--drawn-on-blackboard-5-hex { color: #262626; }
+
+/* Color Theme Swatches in RGBA */
+.curriculum-vitae-concept--drawn-on-blackboard-1-rgba { color: rgba(242, 184, 12, 1); }
+.curriculum-vitae-concept--drawn-on-blackboard-2-rgba { color: rgba(242, 162, 14, 1); }
+.curriculum-vitae-concept--drawn-on-blackboard-3-rgba { color: rgba(191, 130, 17, 1); }
+.curriculum-vitae-concept--drawn-on-blackboard-4-rgba { color: rgba(242, 242, 242, 1); }
+.curriculum-vitae-concept--drawn-on-blackboard-5-rgba { color: rgba(38, 38, 38, 1); }
+
+/* Color Theme Swatches in HSLA */
+.curriculum-vitae-concept--drawn-on-blackboard-1-hsla { color: hsla(45, 90, 49, 1); }
+.curriculum-vitae-concept--drawn-on-blackboard-2-hsla { color: hsla(39, 89, 50, 1); }
+.curriculum-vitae-concept--drawn-on-blackboard-3-hsla { color: hsla(39, 83, 40, 1); }
+.curriculum-vitae-concept--drawn-on-blackboard-4-hsla { color: hsla(0, 0, 95, 1); }
+.curriculum-vitae-concept--drawn-on-blackboard-5-hsla { color: hsla(0, 0, 15, 1); }
+
+/* Color Theme Swatches in Hex */
+.FREDMAN-&-CO---Logo-&-Branding-1-hex { color: #171C26; }
+.FREDMAN-&-CO---Logo-&-Branding-2-hex { color: #223A59; }
+.FREDMAN-&-CO---Logo-&-Branding-3-hex { color: #BF7B54; }
+.FREDMAN-&-CO---Logo-&-Branding-4-hex { color: #F2F2F2; }
+.FREDMAN-&-CO---Logo-&-Branding-5-hex { color: #A6A6A6; }
+
+/* Color Theme Swatches in RGBA */
+.FREDMAN-&-CO---Logo-&-Branding-1-rgba { color: rgba(23, 28, 38, 1); }
+.FREDMAN-&-CO---Logo-&-Branding-2-rgba { color: rgba(33, 57, 89, 1); }
+.FREDMAN-&-CO---Logo-&-Branding-3-rgba { color: rgba(191, 123, 84, 1); }
+.FREDMAN-&-CO---Logo-&-Branding-4-rgba { color: rgba(242, 242, 242, 1); }
+.FREDMAN-&-CO---Logo-&-Branding-5-rgba { color: rgba(165, 165, 165, 1); }
+
+/* Color Theme Swatches in HSLA */
+.FREDMAN-&-CO---Logo-&-Branding-1-hsla { color: hsla(219, 24, 12, 1); }
+.FREDMAN-&-CO---Logo-&-Branding-2-hsla { color: hsla(213, 44, 24, 1); }
+.FREDMAN-&-CO---Logo-&-Branding-3-hsla { color: hsla(22, 45, 54, 1); }
+.FREDMAN-&-CO---Logo-&-Branding-4-hsla { color: hsla(0, 0, 95, 1); }
+.FREDMAN-&-CO---Logo-&-Branding-5-hsla { color: hsla(0, 0, 65, 1); }
