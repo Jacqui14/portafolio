@@ -13,8 +13,17 @@
 }
 #img-perfil{
     width: 150px;
+    
 }
-
+#foto3{
+    width: 85%;
+}
+#foto4{
+    width: 105%;
+}
+#foto5{
+    width: 106%;
+}
 #img-stack{
     width: 200px;
 }
